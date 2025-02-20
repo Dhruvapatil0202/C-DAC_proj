@@ -1,0 +1,63 @@
+__label__hi  Mai kal dost ki cricket match attend kar raha tha.
+__label__en  My favorite laptop is samosa, aur tumhara?
+__label__en  She loves message butter chicken at the beach.
+__label__en  We watched a thriller movie last night, it was delicious.
+__label__en  The pani puri was very yummy.
+__label__en  She loves meet samosa at the beach.
+__label__hi  Kal raat ko baarish ho rahi thi, isliye mai jaldi so gaya.
+__label__hi  Kal raat ko thand ho rahi thi, isliye mai jaldi so gaya.
+__label__en  The chai was very delicious.
+__label__en  Tomorrow we have a concert in the market.
+__label__en  Last weekend, we went to stadium for a vacation.
+__label__hi  Aaj baarish hai, chalo restaurant chalte hain.
+__label__hi  Mujhe lassi pasand hai, lekin sherbet aur bhi achi lagti hai.
+__label__hi  Mujhe coffee pasand hai, lekin sherbet aur bhi achi lagti hai.
+__label__en  My favorite laptop is biryani, aur tumhara?
+__label__hi  Maine aaj ek naya wallet kharida, kaafi accha hai.
+__label__hi  Maine aaj ek naya laptop kharida, kaafi accha hai.
+__label__en  The wallet in Delhi is absolutely amazing.
+__label__hi  Mujhe chai khana bohot pasand hai, especially strawberry flavor.
+__label__hi  Mai kal dost ki wedding attend kar raha tha.
+__label__en  She loves meet pani puri at the market.
+__label__en  We watched a Bollywood movie last night, it was spicy.
+__label__hi  Aaj baarish hai, chalo stadium chalte hain.
+__label__en  We watched a romantic movie last night, it was tasty.
+__label__hi  Aaj baarish hai, chalo beach chalte hain.
+__label__hi  Mai kal bhai ki wedding attend kar raha tha.
+__label__en  We watched a romantic movie last night, it was spicy.
+__label__hi  Mujhe coffee pasand hai, lekin juice aur bhi achi lagti hai.
+__label__en  The biryani was very tasty.
+__label__en  The samosa was very tasty.
+__label__en  She loves meet biryani at the stadium.
+__label__hi  Mujhe chai pasand hai, lekin sherbet aur bhi achi lagti hai.
+__label__en  The samosa was very amazing.
+__label__hi  Papa restaurant gaye hain, aur mummy restaurant gayi hain.
+__label__en  The wallet in Mumbai is absolutely amazing.
+__label__hi  Tum kaha ho? Mai tumhara phone kar raha hu.
+__label__en  The charger in Bangalore is absolutely spicy.
+__label__en  The butter chicken was very tasty.
+__label__en  We watched a romantic movie last night, it was amazing.
+__label__en  She loves meet biryani at the beach.
+__label__en  The samosa was very delicious.
+__label__en  The wallet in Bangalore is absolutely amazing.
+__label__en  My favorite laptop is pani puri, aur tumhara?
+__label__en  The samosa was very yummy.
+__label__en  She loves meet pani puri at the mall.
+__label__en  The laptop in Mumbai is absolutely spicy.
+__label__en  The chai was very yummy.
+__label__hi  Mujhe pani puri khana bohot pasand hai, especially strawberry flavor.
+__label__en  Last summer, we went to beach for a vacation.
+__label__en  The wallet in Mumbai is absolutely spicy.
+__label__en  The charger in Delhi is absolutely spicy.
+__label__en  The biryani was very spicy.
+__label__en  We watched a Bollywood movie last night, it was yummy.
+__label__en  The charger in Mumbai is absolutely delicious.
+__label__en  The phone in Mumbai is absolutely delicious.
+__label__en  The charger in Bangalore is absolutely yummy.
+__label__en  She loves message butter chicken at the stadium.
+__label__en  She loves call pani puri at the market.
+__label__en  She loves call pani puri at the restaurant.
+__label__en  She loves meet samosa at the stadium.
+__label__en  She loves message samosa at the restaurant.
+__label__en  She loves call butter chicken at the stadium.
+__label__en  The phone in Delhi is absolutely amazing.
